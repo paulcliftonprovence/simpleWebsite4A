@@ -1,0 +1,62 @@
+/* Style for the whole page */
+
+/* Image styling */
+img {
+  width: 300px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  display: block;
+  margin: 20px 0;
+}
+
+body {
+  background-color: white;
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  color: #333;
+}
+
+/* Main heading */
+h1 {
+  color: #2a7ae2;
+  font-size: 36px;
+}
+
+/* Second-level heading */
+h2 {
+  color: #444;
+  font-size: 28px;
+}
+
+/* Third-level heading */
+h3 {
+  color: #666;
+  font-size: 22px;
+}
+
+
+/* Paragraph text */
+p {
+  font-size: 18px;
+}
+
+/* Unordered list styling */
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+/* List items */
+li {
+  margin-bottom: 10px;
+}
+
+/* Link styling */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
